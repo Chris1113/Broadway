@@ -1,0 +1,20 @@
+* {
+  font-family: helvetica;
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+h {
+  font-weight: bold;
+}
+
+h4 {
+  color: white;
+  font-weight: normal;
+  font-size: 18px;
+}
