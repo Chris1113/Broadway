@@ -1,7 +1,6 @@
 * {
   font-family: helvetica;
   text-align: center;
-  color: black;
 }
 
 h1 {
@@ -14,14 +13,19 @@ h {
 }
 
 h4 {
-  color: white;
   font-weight: normal;
   font-size: 18px;
 }
 
 .top {
   background-image:
-  url("resources\images\the-flatiron-building.png");
+  url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: white;
 }
 
 p {
