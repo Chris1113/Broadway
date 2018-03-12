@@ -12,11 +12,6 @@ h {
   font-weight: bold;
 }
 
-h4 {
-  font-weight: normal;
-  font-size: 18px;
-}
-
 .top {
   background-image:
   url("../images/the-flatiron-building.png");
@@ -26,6 +21,8 @@ h4 {
 
 a {
   color: white;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 p {
@@ -37,4 +34,9 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+
+.designed {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
 }
